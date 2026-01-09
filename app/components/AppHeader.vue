@@ -19,8 +19,6 @@
 
     <!-- Menu mobile toggle et boutons -->
     <div class="flex items-center gap-4">
-      <UButton icon="i-heroicons-magnifying-glass" variant="ghost" color="gray" />
-      <UButton icon="i-heroicons-shopping-bag" variant="ghost" color="gray" />
       <UAvatar
         src="https://api.dicebear.com/7.x/avataaars/svg?seed=Felix"
         size="sm"

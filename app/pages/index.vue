@@ -5,14 +5,6 @@
       <!-- Section Hero -->
       <HeroSection :post="featuredPost" />
 
-      <section class="flex gap-4 overflow-x-auto pb-4 no-scrollbar">
-        <UButton v-for="cat in ['Architecture', 'Mobilier', 'Lumière', 'Couleurs', 'Minimalisme']" 
-                 :key="cat" size="md" variant="ghost" 
-                 class="rounded-full bg-gray-100 text-gray-700 hover:bg-teal-500 hover:text-white px-6">
-          {{ cat }}
-        </UButton>
-      </section>
-
       <section>
         <div class="flex justify-between items-end mb-10">
           <h2 class="text-3xl font-bold">Dernières Publications</h2>
