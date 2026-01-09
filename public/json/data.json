@@ -1,0 +1,86 @@
+{
+  "athlete": {
+    "name": "Anthony Joshua",
+    "nickname": "AJ",
+    "sport": "Boxe anglaise",
+    "category": "Poids lourds",
+    "nationality": "Britannique"
+  },
+  "career_summary": {
+    "professional_record": {
+      "total_fights": 32,
+      "wins": 29,
+      "wins_by_ko": 23,
+      "losses": 3,
+      "draws": 0
+    },
+    "career_span": "2013 - 2026"
+  },
+  "titles": [
+    {
+      "title": "Champion du monde WBA",
+      "years": "2016 - 2018"
+    },
+    {
+      "title": "Champion du monde IBF",
+      "years": "2016 - 2019"
+    },
+    {
+      "title": "Champion du monde WBO",
+      "years": "2018 - 2019"
+    }
+  ],
+  "major_achievements": [
+    {
+      "year": 2012,
+      "achievement": "Médaille d’or aux Jeux Olympiques de Londres",
+      "location": "Londres, Royaume-Uni"
+    },
+    {
+      "year": 2017,
+      "achievement": "Combat de l’année contre Wladimir Klitschko",
+      "location": "Wembley Stadium"
+    },
+    {
+      "year": 2018,
+      "achievement": "Unification de trois ceintures mondiales",
+      "location": "Cardiff"
+    }
+  ],
+  "notable_fights": [
+    {
+      "opponent": "Wladimir Klitschko",
+      "result": "Victoire par KO",
+      "round": 11,
+      "year": 2017
+    },
+    {
+      "opponent": "Joseph Parker",
+      "result": "Victoire par décision unanime",
+      "round": 12,
+      "year": 2018
+    },
+    {
+      "opponent": "Andy Ruiz Jr.",
+      "result": "Victoire par décision unanime",
+      "round": 12,
+      "year": 2019
+    }
+  ],
+  "awards": [
+    {
+      "year": 2017,
+      "award": "Boxeur de l’année (UK Sports Awards)"
+    },
+    {
+      "year": 2018,
+      "award": "Athlète britannique de l’année"
+    }
+  ],
+  "philanthropy": [
+    {
+      "initiative": "Programme jeunesse Sport & Discipline",
+      "description": "Soutien aux jeunes issus de quartiers défavorisés via le sport"
+    }
+  ]
+}
