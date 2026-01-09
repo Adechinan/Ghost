@@ -7,11 +7,14 @@
       
         <div class="text-center max-w-3xl">        
         <h1 class="text-3xl md:text-5xl lg:text-6xl font-extrabold text-white mb-6 leading-tight">
-          Un simple blog
+          Ghost
         </h1>
         
+        <p class="text-white text-sm md:text-base font-bold leading-relaxed mb-4 max-w-2xl mx-auto">
+            Allez à la découverte des mots. Plongez-vous dans les récits et laissez l'univers vous conter ses merveilles.
+        </p>
         <p class="text-white text-sm md:text-base font-bold leading-relaxed mb-10 max-w-2xl mx-auto">
-            Découvrez des articles inspirants sur le design, l'architecture et les tendances modernes, rédigés par des experts du domaine.
+          Chers aventuriers, bienvenue sur Ghost !
         </p>
 
         <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -19,7 +22,7 @@
             size="xl"
             class="px-8 py-3 text-black rounded-lg bg-yellow-400 shadow-lg shadow-teal-500/30 transition-all"
           >
-            Voir plus d'articles
+            Plus d'histoires
           </UButton>
         </div>
       </div>
