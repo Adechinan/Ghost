@@ -10,7 +10,7 @@ const { posts, status } = usePosts();
       <USpinner size="lg" color="primary" />
     </div>
     <div v-else-if="(status === 'error')" class="text-center py-20 text-red-500">
-      Une erreur s'est produite
+      <ErrorComponent />
     </div>
     <div v-else></div>
 

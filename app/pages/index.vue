@@ -67,7 +67,8 @@
 <script setup>
     // Récupération des données avec le nouveau moteur de Nuxt 3
     const { data: postsData } = await useFetch('https://jsonplaceholder.typicode.com/posts?_limit=7')
-
+    import HeroSection from '~/components/HeroSection.vue';
+    
     // Le premier post sert pour le Hero, les autres pour la grille
     const featuredPost = computed(() => postsData.value?.[0])
     const posts = computed(() => postsData.value?.slice(1))
